@@ -11,10 +11,10 @@ Next.js • React • TypeScript • Laravel • PHP
 ---
 
 ## About Me
-🎓 BS Information Technology Graduate
-💻 Full Stack Developer
-🌐 Interested in web development, graphic design and UI/UX
-🛠️ Building projects to continuously improve my skills
+- BS Information Technology Graduate
+- Full Stack Developer
+- Interested in web development, graphic design and UI/UX
+- Building projects to continuously improve my skills
 
 ---
 
