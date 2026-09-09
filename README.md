@@ -35,14 +35,19 @@ Git • GitHub • VS Code • Vercel • Netlify • Render
 
 ## Featured Projects
 
+
+
 ### Job Application Tracker
 A web application for organizing and tracking job applications.
+
+### MurtheWeb
+A movie and TV-show browsing application powered by the TMDB API.
 
 ### 4Ps Beneficiary Management System
 A management system with descriptive analytics developed as a capstone project.
 
-### MurtheWeb
-A movie and TV-show browsing application powered by the TMDB API.
+### Cauayan Senior Citizen's Office Information System
+A management system designed to Municipality of Binalbagan
 
 ---
 
