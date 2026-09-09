@@ -19,10 +19,17 @@ Next.js • React • TypeScript • Laravel • PHP
 ---
 
 ## Tech Stack
-Frontend: HTML • CSS • JavaScript • TypeScript React • Next.js • Vue.js • Tailwind CSS • Bootstrap
-Backend: PHP • Laravel • REST APIs • FastAPI
-Database: MySQL • MariaDB • PostgreSQL
-Tools: Git • GitHub • VS Code • Vercel • Netlify • Render
+Frontend: 
+HTML • CSS • JavaScript • TypeScript React • Next.js • Vue.js • Tailwind CSS • Bootstrap
+
+Backend: 
+PHP • Laravel • REST APIs • FastAPI
+
+Database:
+MySQL • MariaDB • PostgreSQL
+
+Tools: 
+Git • GitHub • VS Code • Vercel • Netlify • Render
 
 ---
 
@@ -40,6 +47,8 @@ A movie and TV-show browsing application powered by the TMDB API.
 ---
 
 ## Currently Learning
+- Vue.js
+- React
 - Next.js
 - Laravel
 - UI/UX
